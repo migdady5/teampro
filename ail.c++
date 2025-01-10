@@ -7,7 +7,7 @@ int main() {
     double num1, num2;
 
     cout << "Welcome to the Calculator Program!\n";
-    cout << "Enter the operation you want to perform (+, -, *, /, ^ for power): ";
+    cout << "Enter the number): ";
     cin >> operation;
 
     cout << "Enter the first number: ";
